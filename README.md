@@ -63,7 +63,7 @@
       alt="webpack"/>
   </a>
   <a href="https://vuejs.org/" target="_blank">
-    <img src="https://img.shields.io/badge/vue-00D1B2.svg?style=for-the-badge&logo=vuejs&logoColor=white"
+    <img src="https://img.shields.io/badge/vue-00D1B2.svg?style=for-the-badge&logo=vue&logoColor=white"
       alt="vue"/>
   </a>
   <a href="https://nextjs.org/" target="_blank">
