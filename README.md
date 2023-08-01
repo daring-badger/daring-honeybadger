@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>
   </a>
   <a href="https://www.java.com" target="_blank"> 
-    <img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white" 
+    <img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=openjdk&logoColor=white" 
       alt="java"/> 
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
@@ -63,11 +63,11 @@
       alt="webpack"/>
   </a>
   <a href="https://vuejs.org/" target="_blank">
-    <img src="https://img.shields.io/badge/vue-00D1B2.svg?style=for-the-badge&logo=vue&logoColor=white"
+    <img src="https://img.shields.io/badge/vue-00D1B2.svg?style=for-the-badge&logo=vuedotjs&logoColor=white"
       alt="vue"/>
   </a>
   <a href="https://nextjs.org/" target="_blank">
-    <img src="https://img.shields.io/badge/nextjs-0769AD.svg?style=for-the-badge&logo=nextjs&logoColor=white" alt="next"/> 
+    <img src="https://img.shields.io/badge/nextjs-0769AD.svg?style=for-the-badge&logo=next.js&logoColor=white" alt="next"/> 
 </p>
 
 <h3 align="center">Backend</h3>
